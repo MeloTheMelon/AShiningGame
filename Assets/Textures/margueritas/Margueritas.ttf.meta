@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e38fd919ef7e7c442af5974e5d0b6def
+timeCreated: 1516820423
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Margueritas
+  fontNames:
+  - Margueritas
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

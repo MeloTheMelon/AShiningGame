@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: c35c0035241b9f245a4f85d9efd1ae1b
+timeCreated: 1516721083
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 180123_Modell_Raum 1
+    100002: balkon
+    100004: ballustrade
+    100006: ballustrade 1
+    100008: Grundlage
+    100010: jt_obj_13
+    100012: jt_obj_13 1
+    100014: jt_obj_13 2
+    100016: jt_obj_18
+    100018: jt_obj_22
+    100020: jt_obj_26
+    100022: jt_obj_30
+    100024: jt_obj_34
+    100026: jt_obj_34 1
+    100028: jt_obj_38
+    100030: jt_obj_43
+    100032: jt_obj_47
+    100034: jt_obj_5
+    100036: jt_obj_52
+    100038: jt_obj_52 1
+    100040: jt_obj_57
+    100042: jt_obj_61
+    100044: jt_obj_65
+    100046: jt_obj_65 1
+    100048: jt_obj_65 2
+    100050: jt_obj_70
+    100052: jt_obj_9
+    100054: Keller
+    100056: KURVE
+    100058: //RootNode
+    100060: Solid1
+    100062: Solid1 1
+    100064: Solid1 10
+    100066: Solid1 11
+    100068: Solid1 12
+    100070: Solid1 13
+    100072: Solid1 14
+    100074: Solid1 15
+    100076: Solid1 16
+    100078: Solid1 17
+    100080: Solid1 18
+    100082: Solid1 19
+    100084: Solid1 2
+    100086: Solid1 20
+    100088: Solid1 3
+    100090: Solid1 4
+    100092: Solid1 5
+    100094: Solid1 6
+    100096: Solid1 7
+    100098: Solid1 8
+    100100: Solid1 9
+    100102: Solid2
+    100104: "S\xC4ULE"
+    100106: "S\xC4ULE_1"
+    100108: "S\xC4ULE_2"
+    100110: "S\xC4ULE_3"
+    100112: treppe
+    100114: TREPPE_KLEIN
+    100116: TREPPE_KLEIN 1
+    100118: TREPPE_KLEIN 2
+    100120: TREPPE_KLEIN_1
+    100122: TREPPE_KLEIN_KLEIN
+    100124: TREPPE_KLEIN_KLEIN 1
+    100126: TREPPE_KLEIN_KLEIN 2
+    100128: WAND_BOGEN
+    100130: WAND_BOGEN_1
+    100132: WAND_BOGEN_kurz
+    100134: WAND_BOGEN_kurz 1
+    400000: 180123_Modell_Raum 1
+    400002: balkon
+    400004: ballustrade
+    400006: ballustrade 1
+    400008: Grundlage
+    400010: jt_obj_13
+    400012: jt_obj_13 1
+    400014: jt_obj_13 2
+    400016: jt_obj_18
+    400018: jt_obj_22
+    400020: jt_obj_26
+    400022: jt_obj_30
+    400024: jt_obj_34
+    400026: jt_obj_34 1
+    400028: jt_obj_38
+    400030: jt_obj_43
+    400032: jt_obj_47
+    400034: jt_obj_5
+    400036: jt_obj_52
+    400038: jt_obj_52 1
+    400040: jt_obj_57
+    400042: jt_obj_61
+    400044: jt_obj_65
+    400046: jt_obj_65 1
+    400048: jt_obj_65 2
+    400050: jt_obj_70
+    400052: jt_obj_9
+    400054: Keller
+    400056: KURVE
+    400058: //RootNode
+    400060: Solid1
+    400062: Solid1 1
+    400064: Solid1 10
+    400066: Solid1 11
+    400068: Solid1 12
+    400070: Solid1 13
+    400072: Solid1 14
+    400074: Solid1 15
+    400076: Solid1 16
+    400078: Solid1 17
+    400080: Solid1 18
+    400082: Solid1 19
+    400084: Solid1 2
+    400086: Solid1 20
+    400088: Solid1 3
+    400090: Solid1 4
+    400092: Solid1 5
+    400094: Solid1 6
+    400096: Solid1 7
+    400098: Solid1 8
+    400100: Solid1 9
+    400102: Solid2
+    400104: "S\xC4ULE"
+    400106: "S\xC4ULE_1"
+    400108: "S\xC4ULE_2"
+    400110: "S\xC4ULE_3"
+    400112: treppe
+    400114: TREPPE_KLEIN
+    400116: TREPPE_KLEIN 1
+    400118: TREPPE_KLEIN 2
+    400120: TREPPE_KLEIN_1
+    400122: TREPPE_KLEIN_KLEIN
+    400124: TREPPE_KLEIN_KLEIN 1
+    400126: TREPPE_KLEIN_KLEIN 2
+    400128: WAND_BOGEN
+    400130: WAND_BOGEN_1
+    400132: WAND_BOGEN_kurz
+    400134: WAND_BOGEN_kurz 1
+    2300000: jt_obj_13
+    2300002: jt_obj_13 1
+    2300004: jt_obj_13 2
+    2300006: jt_obj_18
+    2300008: jt_obj_22
+    2300010: jt_obj_26
+    2300012: jt_obj_30
+    2300014: jt_obj_34
+    2300016: jt_obj_34 1
+    2300018: jt_obj_38
+    2300020: jt_obj_43
+    2300022: jt_obj_47
+    2300024: jt_obj_5
+    2300026: jt_obj_52
+    2300028: jt_obj_52 1
+    2300030: jt_obj_57
+    2300032: jt_obj_61
+    2300034: jt_obj_65
+    2300036: jt_obj_65 1
+    2300038: jt_obj_65 2
+    2300040: jt_obj_70
+    2300042: jt_obj_9
+    2300044: Solid1
+    2300046: Solid1 1
+    2300048: Solid1 10
+    2300050: Solid1 11
+    2300052: Solid1 12
+    2300054: Solid1 13
+    2300056: Solid1 14
+    2300058: Solid1 15
+    2300060: Solid1 16
+    2300062: Solid1 17
+    2300064: Solid1 18
+    2300066: Solid1 19
+    2300068: Solid1 2
+    2300070: Solid1 20
+    2300072: Solid1 3
+    2300074: Solid1 4
+    2300076: Solid1 5
+    2300078: Solid1 6
+    2300080: Solid1 7
+    2300082: Solid1 8
+    2300084: Solid1 9
+    2300086: Solid2
+    3300000: jt_obj_13
+    3300002: jt_obj_13 1
+    3300004: jt_obj_13 2
+    3300006: jt_obj_18
+    3300008: jt_obj_22
+    3300010: jt_obj_26
+    3300012: jt_obj_30
+    3300014: jt_obj_34
+    3300016: jt_obj_34 1
+    3300018: jt_obj_38
+    3300020: jt_obj_43
+    3300022: jt_obj_47
+    3300024: jt_obj_5
+    3300026: jt_obj_52
+    3300028: jt_obj_52 1
+    3300030: jt_obj_57
+    3300032: jt_obj_61
+    3300034: jt_obj_65
+    3300036: jt_obj_65 1
+    3300038: jt_obj_65 2
+    3300040: jt_obj_70
+    3300042: jt_obj_9
+    3300044: Solid1
+    3300046: Solid1 1
+    3300048: Solid1 10
+    3300050: Solid1 11
+    3300052: Solid1 12
+    3300054: Solid1 13
+    3300056: Solid1 14
+    3300058: Solid1 15
+    3300060: Solid1 16
+    3300062: Solid1 17
+    3300064: Solid1 18
+    3300066: Solid1 19
+    3300068: Solid1 2
+    3300070: Solid1 20
+    3300072: Solid1 3
+    3300074: Solid1 4
+    3300076: Solid1 5
+    3300078: Solid1 6
+    3300080: Solid1 7
+    3300082: Solid1 8
+    3300084: Solid1 9
+    3300086: Solid2
+    4300000: Solid1
+    4300002: jt_obj_5
+    4300004: Solid2
+    4300006: jt_obj_9
+    4300008: Solid1
+    4300010: jt_obj_13
+    4300012: Solid1
+    4300014: jt_obj_13
+    4300016: Solid1
+    4300018: jt_obj_18
+    4300020: Solid1
+    4300022: jt_obj_22
+    4300024: Solid1
+    4300026: jt_obj_26
+    4300028: Solid1
+    4300030: jt_obj_30
+    4300032: Solid1
+    4300034: jt_obj_34
+    4300036: Solid1
+    4300038: jt_obj_38
+    4300040: Solid1
+    4300042: jt_obj_34
+    4300044: Solid1
+    4300046: jt_obj_43
+    4300048: Solid1
+    4300050: jt_obj_47
+    4300052: Solid1
+    4300054: jt_obj_13
+    4300056: Solid1
+    4300058: jt_obj_52
+    4300060: Solid1
+    4300062: jt_obj_52
+    4300064: Solid1
+    4300066: jt_obj_57
+    4300068: Solid1
+    4300070: jt_obj_61
+    4300072: Solid1
+    4300074: jt_obj_65
+    4300076: Solid1
+    4300078: jt_obj_65
+    4300080: Solid1
+    4300082: jt_obj_70
+    4300084: Solid1
+    4300086: jt_obj_65
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: e955ebc3a1134f244bf280171e91113b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: a1aa467dd0b388e4483c324531734268, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
